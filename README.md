@@ -49,8 +49,5 @@ Desenvolvedor com experiência em desenvolvimento desktop e web, especializado e
 ## 📊 Estatísticas GitHub
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Renan_gc&show_icons=true&theme=dracula)
 
-## 💻 Linguagens Mais Utilizadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renan_gc&layout=compact&theme=dracula)
-
 ## 🏆 Conquistas
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Renan_gc&theme=dracula)
