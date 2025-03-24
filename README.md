@@ -5,12 +5,13 @@ Desenvolvedor com experiência em desenvolvimento desktop e web, especializado e
 
 ## 🛠 Habilidades
 - Backend: Delphi, C#, .NET Framework
-- Bancos de Dados: Firebird, SQL Server
+- Bancos de Dados: Firebird, SQL Server, MySql, SqlLite.
 - Frontend: React, HTML, CSS, JavaScript
 - Desenvolvimento Desktop: Delphi VCL, Windows Forms
 - Ferramentas: Visual Studio Code, PowerShell, Perfmon
 - Integrações: APIs RESTful, API Mirror
 - Controle de Versão: Git, GitHub
+- AWS: Gerenciamento de servidor, alteração em configuração e criação.
 
 ## 🔭 Projetos em Destaque
 - Sistema Web com Delphi e React
