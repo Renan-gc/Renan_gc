@@ -1,54 +1,62 @@
-# Olá, eu sou Renan! 👋
+# Renan Dirceu De Almeida
 
-## 🚀 Sobre mim
-Desenvolvedor com experiência em desenvolvimento desktop e web, especializado em Delphi, React e tecnologias Microsoft. Atualmente trabalhando na Artean Tecnologia, onde desenvolvo soluções inovadoras e contribuo para projetos desafiadores.
+## 👨‍💻 Desenvolvedor Back-End | Full Stack
 
-## 🛠 Habilidades
-- Backend: Delphi, C#, .NET Framework
-- Bancos de Dados: Firebird, SQL Server, MySql, SqlLite.
-- Frontend: React, HTML, CSS, JavaScript
-- Desenvolvimento Desktop: Delphi VCL, Windows Forms
-- Ferramentas: Visual Studio Code, PowerShell, Perfmon
-- Integrações: APIs RESTful, API Mirror
-- Controle de Versão: Git, GitHub
-- AWS: Gerenciamento de servidor, alteração em configuração e criação.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-dirceu-de-almeida-16645025a/)](https://www.linkedin.com/in/renan-dirceu-de-almeida-16645025a/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tatusage@gmail.com)](mailto:tatusage@gmail.com)
 
-## 🔭 Projetos em Destaque
-- Sistema Web com Delphi e React
-- Ferramenta de Monitoramento ERP
-- Sistema de Backups Automatizados
-- Integrações com APIs diversas
+### Sobre mim
+Desenvolvedor com experiência em soluções tecnológicas eficientes, especializado em desenvolvimento web e sistemas. Apaixonado por resolver problemas complexos e criar soluções inovadoras.
 
-## 💼 Experiência Profissional
+### 🚀 Principais Habilidades
 
-### Artean Tecnologia
-**Desenvolvedor de Software** (Janeiro 2025 - Presente)
-- Desenvolvimento de sistema web utilizando Delphi e React
-- Integração com banco de dados Firebird
-- Implementação de API Mirror para backups automatizados
-- Garantia de desempenho e integridade dos dados
+#### Linguagens e Tecnologias:
+- 💻 Back-End: Delphi, Python, C#, Java, Node.js
+- 🌐 Front-End: React.js, Next.js, JavaScript, HTML5, CSS3
+- 🗄️ Bancos de Dados: PostgreSQL, MySQL, SQLServer, Firebird, SQLite
+- ☁️ Cloud: AWS (Gerenciamento de serviços)
+- 🔧 Ferramentas & Frameworks:
+  - APIs RESTful
+  - Mirror Framework
+  - Backend em Python
+  - Uni GUI
+  - Gerenciamento de Servidor ERP
 
-### Estágio em TI (Setembro 2024 - Janeiro 2025)
-- Desenvolvimento de ferramenta de monitoramento usando PowerShell e Perfmon
-- Monitoramento em tempo real de CPU em sistema ERP
-- Implementação de alertas automáticos
-- Utilização de Visual Studio Code para desenvolvimento
+#### Destaques Profissionais:
+- ✨ Implementação de sistemas web seguros e otimizados
+- 📊 Otimização de consultas SQL com redução de latência em até 20%
+- 🔐 Desenvolvimento de módulos de autenticação e auditoria
+- 🔄 Integração de APIs e sistemas distribuídos
+- 🛠️ Automação de processos com PowerShell e Python
+- 🔧 Aplicações em tempo real que já rodam em produção
 
-## 💻 Linguagens e Tecnologias
-![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 💼 Experiência Profissional
 
-## 📫 Contatos
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-dirceu-de-almeida-16645025a/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renan@artean.com.br)
+**Artean Tecnologia**
+- Desenvolvimento de sistemas web com Delphi e React
+- Implementação de APIs RESTful
+- Otimização de sistemas de backup
+- Gerenciamento de segurança e permissões
+- Desenvolvimento Frontend com HTML5, CSS3 e React.js
+- Integração com serviços AWS
+- Manutenção e desenvolvimento de aplicações em Python
 
-## 📊 Estatísticas GitHub
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Renan_gc&show_icons=true&theme=dracula)
+**Câmara Municipal de Curitiba**
+- Administração de bancos de dados
+- Suporte técnico N1/N2/N3
+- Configuração e manutenção de servidores
 
-## 🏆 Conquistas
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Renan_gc&theme=dracula)
+### 📚 Formação
+- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas - Universidade Positivo
+  - Período: abril/2025 - dezembro/2027
+- 🎓 Técnico em Desenvolvimento de Sistemas - SENAI
+  - Período: julho/2023 - dezembro/2024 - concluido
+  
+### 🌟 Soft Skills
+- Resolução de problemas
+- Comunicação clara
+- Trabalho em equipe
+- Aprendizado contínuo
+
+---
+⭐️ From [Renan Dirceu](https://github.com/seu-usuario) 
